@@ -28,3 +28,7 @@ Oνοματεπωνυμο:Βασίλειος κωταίδης
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+
+Παραδοτέο 3:Στο κομματι του τρίτου παραδοτέου χρησιμοποιησα τις εντολες για να μπαινω βγαινω σε φακελους να δημιουργώ αρχεία και να τα παρουσιαζω παρακάτω το asciinema link
+https://asciinema.org/a/WSc5BtZrXs7C9CW8KYWuUyI0J
