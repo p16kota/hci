@@ -45,3 +45,15 @@ https://asciinema.org/a/Ye3YKNaTOXC2bnHCO7Pt1nVkH
 Το παρακάτω παραδοτέο με δυσκόλεψε  γιατι εαν ετρεχα την εφαρμογη του emacs(terminal) δεν μπορούσα να τρεξω το asciinema και έπρεπε πρωτα να τρεξω το terminal και να τρέξω τις παρακάτω εντολές για να μπορέσω να κάνω rec το terminal emacs -nw ανοιγμα emacs μεσα απο το τερμιναλ , ctrl+x ctrl+f δημιουργια αρχειου,ctr+x ctrl+s save αρχιου , ctrl+x ctrl+c εξοδος απο το αρχειο.
 Asciinema link:https://asciinema.org/a/CGxAVUFRKQJgt76FllVMub5NK
 
+
+
+παραδοτέο 7
+Στο παρακάτω παράδειγμα άλλαξα τις διαθέσιμες επιλογές και το μέγεθος των επιλογών.Αυτό που με δυσκόλεψε ηταν το μενου που προέκυπτε οταν εκανα 4 τις κατηγορίες αλλα το διορθωσα.
+
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="p16kota" data-slug-hash="wvWLLVx" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="paradoteo7">
+  <span>See the Pen <a href="https://codepen.io/p16kota/pen/wvWLLVx">
+  paradoteo7</a> by vasileios (<a href="https://codepen.io/p16kota">@p16kota</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
