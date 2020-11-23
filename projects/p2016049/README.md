@@ -15,10 +15,11 @@ Oνοματεπωνυμο:Βασίλειος κωταίδης
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
 
-Παραδοτέο 1:θα ήθελα να εξοικειωθώ με το περιβάλλον του github γιατί αποτελεί ένα βασικό εργαλείο για τους πληροφορικούς μιας και το χρησιμοποιούν 
+Παραδοτέο 1:θα ήθελα να εξοικειωθώ με το περιβάλλον του github γιατί αποτελεί ένα βασικό εργαλείο για τους πληροφορικούς.Επισης θα ήθελα να μάθω για τις τεχνικές που ακολουθούν οι προγραμματιστές για να κρατούν σε υψηλά επίπεδα την εύκολη επικοινωνεία του ανθρώπου με τον υπολογιστή
 
 
-Παραδοτέο 2:Στο κομμάτι του δεύτερου παραδοτέου πρόσθεσα τα έξτρα validation μέσω του html.Μετά απο αναζήτηση βρήκα ότι όταν αλλαζω το input type τοτε κατα την φάση του sumbit αλλαζει και η ειδοποίηση σε περίπτωση λαθους πχ εαν αλλαξουμε σε input type="email" τοτε κατα την φαση του sumbit εμφανιζει οτι για παράδειγμα λείπει το @.Στο παρακάτω κομμάτι ακολουθεί το embed απο το codepen  <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="p16kota" data-slug-hash="BazzbjB" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="BazzbjB">
+Παραδοτέο 2:Στο κομμάτι του δεύτερου παραδοτέου πρόσθεσα τα έξτρα validation μέσω του html.Μετά απο αναζήτηση βρήκα ότι όταν αλλαζω το input type τοτε κατα την φάση του sumbit αλλαζει και η ειδοποίηση σε περίπτωση λαθους πχ εαν αλλαξουμε σε input type="email" τοτε κατα την φαση του sumbit εμφανιζει οτι για παράδειγμα λείπει το @.Στο παρακάτω κομμάτι ακολουθεί το embed απο το codepen:
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="p16kota" data-slug-hash="BazzbjB" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="BazzbjB">
   <span>See the Pen <a href="https://codepen.io/p16kota/pen/BazzbjB">
   BazzbjB</a> by vasileios (<a href="https://codepen.io/p16kota">@p16kota</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
