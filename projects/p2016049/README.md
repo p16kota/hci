@@ -59,5 +59,5 @@ Asciinema link:https://asciinema.org/a/CGxAVUFRKQJgt76FllVMub5NK
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 παραδοτέο 8
-Στο παραδοτέο αυτό επέλεξα την άσκηση με το youtube-dl και το mpv όπου και τα έκανα εγκατάσταση μαζί με την python όπου δεν υπήρχε στο ubuntu για να τρέξει ο κώδικας του youtube -dl που ειναι σε python.Στην συνέχεια κατέβασα τα τραγούδια του τελευταίου μήνα απο ένα playlist οπου τύχαινε να είναι μονο ενα τραγούδι στην συνεχεια εκανα search στο folder και το εβαλα να παιξει με το mpv
+Στο παραδοτέο αυτό επέλεξα την άσκηση με το youtube-dl και το mpv όπου και τα έκανα εγκατάσταση μαζί με την python όπου δεν υπήρχε στο ubuntu για να τρέξει ο κώδικας του youtube -dl που ειναι σε python.Στην συνέχεια κατέβασα τα τραγούδια του τελευταίου μήνα απο ένα playlist οπου τύχαινε να είναι μονο ενα τραγούδι στην συνεχεια εκανα search στο folder και το εβαλα να παιξει με το mpv παρακάτω ακολουθεί το aciinema link: https://asciinema.org/a/ess0IX2ZE84WytUTJ05XFn8lZ
 
