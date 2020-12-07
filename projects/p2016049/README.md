@@ -61,3 +61,12 @@ Asciinema link:https://asciinema.org/a/CGxAVUFRKQJgt76FllVMub5NK
 παραδοτέο 8
 Στο παραδοτέο αυτό επέλεξα την άσκηση με το youtube-dl και το mpv όπου και τα έκανα εγκατάσταση μαζί με την python όπου δεν υπήρχε στο ubuntu για να τρέξει ο κώδικας του youtube -dl που ειναι σε python.Στην συνέχεια κατέβασα τα τραγούδια του τελευταίου μήνα απο ένα playlist οπου τύχαινε να είναι μονο ενα τραγούδι στην συνεχεια εκανα search στο folder και το εβαλα να παιξει με το mpv παρακάτω ακολουθεί το aciinema link: https://asciinema.org/a/ess0IX2ZE84WytUTJ05XFn8lZ
 
+
+παραδοτέο 9
+To συγκεκριμένο παραδοτέο ηταν απλο στο να προσθεθεί ενα ακόμα κελί μιας και ο κώδικας ηταν κατανοητός embed: <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="p16kota" data-slug-hash="KKgMmoX" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="paradoteo9">
+  <span>See the Pen <a href="https://codepen.io/p16kota/pen/KKgMmoX">
+  paradoteo9</a> by vasileios (<a href="https://codepen.io/p16kota">@p16kota</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
