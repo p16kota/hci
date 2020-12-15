@@ -70,3 +70,7 @@ To συγκεκριμένο παραδοτέο ηταν απλο στο να π�
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
+
+Παραδοτέο 10
+Το παραδοτέο δέκα που υλοποίησα ηταν η δημιουργεία του cv μέσω του emacs και η μετατροπή σε html και σε docx μέσω του εργαλείου Pandoc.Το συγκεκριμένο εργαλείο μετα την εγκατάσταση του μέσω κάποιον εντολών ειναι σε θέση να μετατρέπει αρχεία.Παρακατω το asciinema link:https://asciinema.org/a/tMevuRdrrDvoP2s0ZfGvQkzHN
+
