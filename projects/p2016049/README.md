@@ -29,6 +29,7 @@
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
+
 <a href="https://imgur.com/quiTWRk"><img src="https://i.imgur.com/quiTWRk.png" title="source: imgur.com" /></a>
 
 
@@ -36,6 +37,7 @@
 
 Στο κομματι του τρίτου παραδοτέου χρησιμοποιησα τις εντολες για να μπαινω και να βγαινω σε φακελους να δημιουργώ αρχεία ουσιαστικά ήταν η πρώτη μου επαφή με linux και terminal σε συνδιασμό ότι έπρεπε να εγκαταστήσω κάποια εργαλεία απο το terminal και να μάθω να χειρίζομαι το asciinema
 https://asciinema.org/a/Ye3YKNaTOXC2bnHCO7Pt1nVkH
+
 
 <a href="https://imgur.com/6nlqj49"><img src="https://i.imgur.com/6nlqj49.png" title="source: imgur.com" /></a>
 
@@ -50,6 +52,7 @@ https://asciinema.org/a/Ye3YKNaTOXC2bnHCO7Pt1nVkH
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
+
 <a href="https://imgur.com/GlUWqgh"><img src="https://i.imgur.com/GlUWqgh.png" title="source: imgur.com" /></a>
 
 
@@ -59,7 +62,9 @@ https://asciinema.org/a/Ye3YKNaTOXC2bnHCO7Pt1nVkH
 Το παρακάτω παραδοτέο με δυσκόλεψε  γιατι εαν ετρεχα την εφαρμογη του emacs(terminal) δεν μπορούσα να τρεξω το asciinema και έπρεπε πρώτα να τρέξω το terminal και να τρέξω τις παρακάτω εντολές για να μπορέσω να κάνω rec το terminal emacs -nw ανοιγμα emacs μεσα απο το τερμιναλ , ctrl+x ctrl+f δημιουργια αρχειου,ctr+x ctrl+s save αρχιου , ctrl+x ctrl+c εξοδος απο το αρχειο.
 Asciinema link:https://asciinema.org/a/CGxAVUFRKQJgt76FllVMub5NK
 
+
 <a href="https://imgur.com/rHub5HD"><img src="https://i.imgur.com/rHub5HD.png" title="source: imgur.com" /></a>
+
 
 ### Παραδοτέο 6
 
@@ -76,12 +81,14 @@ Asciinema link:https://asciinema.org/a/CGxAVUFRKQJgt76FllVMub5NK
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
+
 <a href="https://imgur.com/zYbYpKz"><img src="https://i.imgur.com/zYbYpKz.png" title="source: imgur.com" /></a>
 
 
 ### Παραδοτέο 8
 
 Στο παραδοτέο αυτό επέλεξα την άσκηση με το youtube-dl και το mpv όπου και τα έκανα εγκατάσταση μαζί με την python όπου δεν υπήρχε στο ubuntu για να τρέξει ο κώδικας του youtube -dl που ειναι σε python.Στην συνέχεια κατέβασα τα τραγούδια του τελευταίου μήνα απο ένα playlist με την κατάλληλη εντολη στο terminal, όμως έτυχε να είναι μονο ενα τραγούδι, στην συνεχεια εκανα search στο folder και το εβαλα να παιξει με το mpv player το οποίο αντίστοιχα εγκατέστησα απο το terminal παρακάτω ακολουθεί το aciinema link: https://asciinema.org/a/ess0IX2ZE84WytUTJ05XFn8lZ
+
 
 <a href="https://imgur.com/4uEKdOL"><img src="https://i.imgur.com/4uEKdOL.png" title="source: imgur.com" /></a>
 
@@ -95,7 +102,10 @@ To συγκεκριμένο παραδοτέο επρόκειτο για μια 
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
+
 <a href="https://imgur.com/0Pn3jAQ"><img src="https://i.imgur.com/0Pn3jAQ.png" title="source: imgur.com" /></a>
+
+
 
 ### Παραδοτέο 10
 
