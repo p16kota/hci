@@ -46,6 +46,8 @@ https://asciinema.org/a/Ye3YKNaTOXC2bnHCO7Pt1nVkH
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
+<a href="https://imgur.com/IY4D6ax"><img src="https://i.imgur.com/IY4D6ax.png" title="source: imgur.com" /></a>
+
 
 ### Παραδοτέο 5
 
